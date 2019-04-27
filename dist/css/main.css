@@ -11459,7 +11459,7 @@ div.table-responsive > div.dataTables_wrapper > div.row > div[class^=col-]:last-
   padding-top: 35%;
 }
 .user-profile.compact .up-head-w .up-social a {
-  font-size: 20px;
+  font-size: 14px;
 }
 .user-profile.compact .up-header {
   font-size: 1.5rem;
@@ -25014,8 +25014,8 @@ body.auth-wrapper .all-wrapper {
 }
 .mycollapse .filter-toggle {
   position: absolute;
-  top: 10px;
-  right: 10px;
+  top: 0;
+  right: 0;
   display: inline-block;
   padding: 4px 5px;
   border-radius: 4px;
